@@ -4,7 +4,7 @@ GameTooltip:HookScript("OnTooltipSetUnit", function(self)
 		guildName, guildRankName, guildRankIndex = GetGuildInfo("mouseover");
 		if guildName == "Three Crowns" then
 			self:AddLine("<" .. guildName .. ">", 1, 0, 0, true)
-		elseif guildName != nil then
+		elseif guildName ~= nil then
 			self:AddLine("<" .. guildName .. ">", 1, 1, 1, true)
 		end
 	end
