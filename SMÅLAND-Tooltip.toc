@@ -4,4 +4,4 @@
 ## Title: SMÅLAND Tooltip
 ## Notes: Adds the guild to the tooltip
 
-Röv.lua
+SMÅLAND-Tooltip.lua
