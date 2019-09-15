@@ -1,0 +1,7 @@
+﻿## Interface: 11302
+## Author: Blackstad
+## Version: 1.0
+## Title: SMÅLAND Tooltip
+## Notes: Adds the guild to the tooltip
+
+Röv.lua
